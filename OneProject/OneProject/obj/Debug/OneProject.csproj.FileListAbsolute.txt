@@ -1,0 +1,10 @@
+C:\Users\Никусик\OneDrive\Рабочий стол\KUBSU\Нейросетевые модели\OneProject\OneProject\bin\Debug\OneProject.exe.config
+C:\Users\Никусик\OneDrive\Рабочий стол\KUBSU\Нейросетевые модели\OneProject\OneProject\bin\Debug\OneProject.exe
+C:\Users\Никусик\OneDrive\Рабочий стол\KUBSU\Нейросетевые модели\OneProject\OneProject\bin\Debug\OneProject.pdb
+C:\Users\Никусик\OneDrive\Рабочий стол\KUBSU\Нейросетевые модели\OneProject\OneProject\obj\Debug\OneProject.csproj.AssemblyReference.cache
+C:\Users\Никусик\OneDrive\Рабочий стол\KUBSU\Нейросетевые модели\OneProject\OneProject\obj\Debug\OneProject.Form1.resources
+C:\Users\Никусик\OneDrive\Рабочий стол\KUBSU\Нейросетевые модели\OneProject\OneProject\obj\Debug\OneProject.Properties.Resources.resources
+C:\Users\Никусик\OneDrive\Рабочий стол\KUBSU\Нейросетевые модели\OneProject\OneProject\obj\Debug\OneProject.csproj.GenerateResource.cache
+C:\Users\Никусик\OneDrive\Рабочий стол\KUBSU\Нейросетевые модели\OneProject\OneProject\obj\Debug\OneProject.csproj.CoreCompileInputs.cache
+C:\Users\Никусик\OneDrive\Рабочий стол\KUBSU\Нейросетевые модели\OneProject\OneProject\obj\Debug\OneProject.exe
+C:\Users\Никусик\OneDrive\Рабочий стол\KUBSU\Нейросетевые модели\OneProject\OneProject\obj\Debug\OneProject.pdb
